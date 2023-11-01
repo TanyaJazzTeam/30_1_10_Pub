@@ -1,0 +1,39 @@
+{
+  "squadName": "Superhelden-Kader",
+  "homeTown": "Metro-Stadt",
+  "secretBase": "Superturm",
+  "active": "WAHR",
+  "members": [
+    {
+      "age": 29,
+      "secretIdentity": "Dan Jukes",
+      "powers": [
+        null,
+        "Wird winzig",
+        "Strahlenexplosion"
+      ]
+    },
+    {
+      "name": "Madame Uppercut",
+      "age": 39,
+      "secretIdentity": "Jane Wilson",
+      "powers": [
+        "Millionen-Tonnen-Stanze",
+        "Schadensresistenz",
+        "Übermenschliche Reflexe"
+      ]
+    },
+    {
+      "name": "Ewige Flamme",
+      "age": 1000000,
+      "secretIdentity": "Unbekannt",
+      "powers": [
+        "Unsterblichkeit",
+        "Hitzeimmunität",
+        "Inferno",
+        "Teleportation",
+        "Interdimensionale Reise"
+      ]
+    }
+  ]
+}
