@@ -1,0 +1,28 @@
+---
+name: Iwan Katkow
+job: Techwriter
+skill: Normal1
+employed: WAHR
+favorite food:
+- Doshik
+- Pivchik
+- Kartofan4ik
+- Ogur4iki
+languages:
+  python:
+    level: Junior
+    libraries:
+    - Pandas
+    - NumPy
+    - Pytorch
+    frameworks:
+    - Flasche
+    - Django
+  rust:
+    level: Vor-Junior
+    libraries: Keiner
+    frameworks: Keiner
+  Javascript:
+    level: Vor-Junior
+    libraries: Keiner
+    frameworks: Eckig
