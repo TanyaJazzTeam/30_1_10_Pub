@@ -10,6 +10,7 @@ updates:
       - dependency-name: remark*
         update-types:
           - version-update:semver-major
+          - jjyy
       - dependency-name: node-fetch
         update-types:
           - version-update:semver-major
