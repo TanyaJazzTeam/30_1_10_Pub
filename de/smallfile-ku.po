@@ -2,10 +2,6 @@
 msgid "A screenshot of a website using AMP."
 msgstr "Ein Screenshot einer Website, die AMP verwendet."
 
-#: /views/partials/footer.j2:23
-msgid "AMP Frk"
-msgstr "AMP-work"
-
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
 msgstr "A screenshot showing amp-sidebar."
