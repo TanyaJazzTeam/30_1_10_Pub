@@ -1,7 +1,7 @@
 {
     "name": "John Doe",
     "age": 434,
-    "re": oo,
+    "re": "oo",
     "address": {
         "street": "10 Downing Street",
         "city": "London"
