@@ -42,10 +42,6 @@ msgstr ""
 msgid "AMP Overview"
 msgstr ""
 
-#: /views/partials/footer.j2:54
-msgid "AMP ls"
-msgstr ""
-
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"
 msgstr ""
