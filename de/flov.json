@@ -1,14 +1,16 @@
 {
   "squadName": "Superhelden-Kader",
   "homeTown": "Metro-Stadt",
+  "formed": 2016,
   "secretBase": "Superturm",
   "active": "WAHR",
   "members": [
     {
+      "name": "Molecule Man",
       "age": 29,
       "secretIdentity": "Dan Jukes",
       "powers": [
-        null,
+        "Strahlungsbeständigkeit",
         "Wird winzig",
         "Strahlenexplosion"
       ]
