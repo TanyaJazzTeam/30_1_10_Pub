@@ -1,0 +1,41 @@
+{
+  "squadName": "Superhelden-Kader",
+  "homeTown": "Metro-Stadt",
+  "formed": 2016,
+  "secretBase": "Superturm",
+  "active": "WAHR",
+  "members": [
+    {
+      "name": "Molecule Man",
+      "age": 29,
+      "secretIdentity": "Dan Jukes",
+      "powers": [
+        "Strahlungsbeständigkeit",
+        "Wird winzig",
+        "Strahlenexplosion"
+      ]
+    },
+    {
+      "name": "Madame Uppercut",
+      "age": 39,
+      "secretIdentity": "Jane Wilson",
+      "powers": [
+        "Millionen-Tonnen-Stanze",
+        "Schadensresistenz",
+        "Übermenschliche Reflexe"
+      ]
+    },
+    {
+      "name": "Ewige Flamme",
+      "age": 1000000,
+      "secretIdentity": "Unbekannt",
+      "powers": [
+        "Unsterblichkeit",
+        "Hitzeimmunität",
+        "Inferno",
+        "Teleportation",
+        "Interdimensionale Reise"
+      ]
+    }
+  ]
+}
