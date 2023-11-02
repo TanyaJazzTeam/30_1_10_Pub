@@ -1,0 +1,31 @@
+---
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: mensuel
+  commit-message:
+    prefix: "\U0001F4CC"
+  ignore:
+  - dependency-name: remarque*
+    update-types:
+    - mise à jour de version : semver-major
+  - dependency-name: récupération de nœud
+    update-types:
+    - mise à jour de version : semver-major
+  - dependency-name: ava
+    update-types:
+    - mise à jour de version : semver-major
+  - dependency-name: règle de charpie unifiée
+    update-types:
+    - mise à jour de version : semver-major
+  - dependency-name: uniste-*
+    update-types:
+    - mise à jour de version : semver-major
+- package-ecosystem: npm
+  directory: "/les fonctions"
+  schedule:
+    interval: tous les jours
+  commit-message:
+    prefix: "\U0001F4CC(fonctions)"
