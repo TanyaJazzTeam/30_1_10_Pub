@@ -3,7 +3,7 @@
 These are the recommended practices for testing code in the
 [TensorFlow repository](https://github.com/tensorflow/tensorflow).
 
-## Before you get started
+## Before you get started ,k
 
 Before you contribute source code to a TensorFlow project, please review the
 `CONTRIBUTING.md` file in the GitHub repo of the project. (For example, see the
